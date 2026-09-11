@@ -1,0 +1,182 @@
+[
+  {
+    "route": "/",
+    "status": 200
+  },
+  {
+    "route": "/marketplace",
+    "status": 200
+  },
+  {
+    "route": "/marketplace/l1",
+    "status": 200
+  },
+  {
+    "route": "/how-it-works",
+    "status": 200
+  },
+  {
+    "route": "/for-farmers",
+    "status": 200
+  },
+  {
+    "route": "/trust-safety",
+    "status": 200
+  },
+  {
+    "route": "/faq",
+    "status": 200
+  },
+  {
+    "route": "/login",
+    "status": 200
+  },
+  {
+    "route": "/register",
+    "status": 200
+  },
+  {
+    "route": "/checkout/l2",
+    "status": 200
+  },
+  {
+    "route": "/checkout/l1/confirmation",
+    "status": 200
+  },
+  {
+    "route": "/customer",
+    "status": 200
+  },
+  {
+    "route": "/customer/onboarding",
+    "status": 200
+  },
+  {
+    "route": "/customer/lambs",
+    "status": 200
+  },
+  {
+    "route": "/customer/lambs/l1",
+    "status": 200
+  },
+  {
+    "route": "/customer/lambs/l1/health",
+    "status": 200
+  },
+  {
+    "route": "/customer/lambs/l1/feeding",
+    "status": 200
+  },
+  {
+    "route": "/customer/messages",
+    "status": 200
+  },
+  {
+    "route": "/customer/payments",
+    "status": 200
+  },
+  {
+    "route": "/customer/deliveries",
+    "status": 200
+  },
+  {
+    "route": "/customer/profile",
+    "status": 200
+  },
+  {
+    "route": "/customer/notifications",
+    "status": 200
+  },
+  {
+    "route": "/farmer",
+    "status": 200
+  },
+  {
+    "route": "/farmer/onboarding",
+    "status": 200
+  },
+  {
+    "route": "/farmer/livestock",
+    "status": 200
+  },
+  {
+    "route": "/farmer/livestock/new",
+    "status": 200
+  },
+  {
+    "route": "/farmer/livestock/l1",
+    "status": 200
+  },
+  {
+    "route": "/farmer/livestock/l1/edit",
+    "status": 200
+  },
+  {
+    "route": "/farmer/care-updates/new",
+    "status": 200
+  },
+  {
+    "route": "/farmer/orders",
+    "status": 200
+  },
+  {
+    "route": "/farmer/customers",
+    "status": 200
+  },
+  {
+    "route": "/farmer/messages",
+    "status": 200
+  },
+  {
+    "route": "/farmer/deliveries",
+    "status": 200
+  },
+  {
+    "route": "/farmer/earnings",
+    "status": 200
+  },
+  {
+    "route": "/farmer/settings",
+    "status": 200
+  },
+  {
+    "route": "/admin",
+    "status": 200
+  },
+  {
+    "route": "/admin/verifications",
+    "status": 200
+  },
+  {
+    "route": "/admin/farms",
+    "status": 200
+  },
+  {
+    "route": "/admin/livestock",
+    "status": 200
+  },
+  {
+    "route": "/admin/orders",
+    "status": 200
+  },
+  {
+    "route": "/admin/payments",
+    "status": 200
+  },
+  {
+    "route": "/admin/disputes",
+    "status": 200
+  },
+  {
+    "route": "/admin/deliveries",
+    "status": 200
+  },
+  {
+    "route": "/admin/users",
+    "status": 200
+  },
+  {
+    "route": "/admin/settings",
+    "status": 200
+  }
+]
